@@ -1,0 +1,70 @@
+a b c#d e f
+ # # # # # 
+ #g      # 
+ ### # # # 
+h i #j    #
+ # #k# # #l
+#m    #n   
+o# # #p### 
+ #q     r# 
+ # # # # # 
+s    #t    
+VAGUE#AGILE
+E#E#A#P#N#C
+L#MASSIVE#H
+V###Y#A#X#O
+EPEE#TRIAL#
+T#L#S#Y#C#A
+#FLUTE#STAR
+L#I#R#B###T
+E#PIONEER#E
+N#S#L#A#A#R
+SHELL#ROWDY
+1
+Obscure (5)
+4
+Nimble (5)
+7
+Monumental (7)
+8
+Fencing sword (4)
+10
+Test (5)
+13
+Woodwind instrument (5)
+14
+Celestial body (4)
+17
+Innovator (7)
+19
+Name of an Oil Company (5)
+20
+Raucous (5)
+0
+Down:
+1
+Smooth fabric (6)
+2
+Precious stone (3)
+3
+Simple (4)
+4
+Bee house (6)
+5
+Imprecise (7)
+6
+Reverberation (4)
+9
+Oval (7)
+11
+Walk pleasantly (6)
+12
+Blood vessel (6)
+15
+Optical device (4)
+16
+Ursine mammal (4)
+18
+Uncooked (3)
+0
+end

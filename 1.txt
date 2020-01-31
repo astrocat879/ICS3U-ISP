@@ -1,0 +1,74 @@
+a b c#d e f
+ # # # # # 
+g  #h      
+ # # # ### 
+i   #j  k  
+## #l# # ##
+m     #n  o
+ ### #p# # 
+q r    #s  
+ # # # # # 
+t    #u    
+WORRY#ADAGE
+A#E#A#B#C#I
+FIG#REACTED
+E#I#N#C###E
+ROOK#AUTHOR
+##N#C#S#A##
+WISDOM#OMIT
+A###P#C#S#R
+GARNISH#TEA
+E#A#E#E#E#C
+SEWED#FARCE
+1
+Concern (5)
+4
+Proverb (5)
+7
+Fruit (3)
+8
+Responded (7)
+9
+Chess piece (4)
+10
+Writer (6)
+13
+Insight (6)
+14
+Leave out (4)
+17
+To decorate food (7)
+19
+Beverage (3)
+20
+Stitched (5)
+21
+Sham (5)
+0
+Down:
+1
+Thin biscuit (5)
+2
+Areas (7)
+3
+Knitting material (4)
+4
+Counting device (6)
+5
+Perform (3)
+6
+Duck (5)
+11
+Small pet rodent (7)
+12
+Mimicked (6)
+13
+Earnings (5)
+15
+Search and find (5)
+16
+Professional cook (4)
+18
+Uncooked (3)
+0
+end

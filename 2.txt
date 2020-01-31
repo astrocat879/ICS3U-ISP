@@ -1,0 +1,66 @@
+#a  b c d #
+e### # # #f
+g h  #i    
+ # # # # # 
+j   #k    #
+ # #l# # #m
+#n    #o   
+p# # #q# # 
+r    #s    
+ # # # ### 
+#t        #
+#ORIGINATE#
+A###A#A#E#S
+CACTI#TEMPT
+T#O#N#I#P#Y
+OARS#BOXER#
+R#P#S#N#R#S
+#BUGLE#RASP
+A#L#A#T#T#E
+SPELL#OMEGA
+K#N#O#I###R
+#ETYMOLOGY#
+1
+Come into existence (9)
+7
+Desert plants (5)
+9
+Entice (5)
+10
+Paddles (4)
+11
+Prize fighter (5)
+14
+Brass instrument (5)
+15
+Harsh, grating voice (4)
+18
+Magical incantation (5)
+19
+Final Greek letter (5)
+20
+The history of a word (9)
+0
+Down:
+2
+Profit (4)
+3
+Country (6)
+4
+Mild (9)
+5
+Performer (5)
+6
+Pig pen (3)
+8
+Fat (9)
+12
+Ski race between gates (6)
+13
+Lance (5)
+16
+Make a request (3)
+17
+Hard work (4)
+0
+end

@@ -1,0 +1,70 @@
+a b c d e#f
+ # # # # # 
+g    #h    
+ # # # ### 
+#i  #j  k  
+l# #m# # # 
+n     #o  #
+ ### #p# #q
+r s  #t    
+ # # # # # 
+ #u        
+ORCHESTRA#A
+B#A#A#Y#I#B
+ORBIT#RIDER
+E#A#S#A###U
+#ERA#INSTEP
+B#E#S#T#R#T
+ASTUTE#TIN#
+F###A#K#P#C
+FEMUR#IGLOO
+L#O#E#W#E#I
+E#BADMINTON
+1
+Ensemble of musicians (9)
+7
+Curved path (5)
+8
+Passenger (5)
+9
+Epoch (3)
+10
+Part of foot (6)
+14
+Shrewd (6)
+15
+A metal (3)
+18
+Thighbone (5)
+20
+Ice hut (5)
+21
+Racket game (9)
+0
+Down:
+1
+Woodwind instrument (4)
+2
+Floor show (7)
+3
+Consumes (4)
+4
+Oppressive ruler (6)
+5
+Assistance (3)
+6
+Sudden (6)
+11
+Group of three (7)
+12
+Perplex (6)
+13
+Gaped (6)
+16
+Exotic fruit (4)
+17
+Metallic money (4)
+19
+Disorderly crowd (3)
+0
+end
